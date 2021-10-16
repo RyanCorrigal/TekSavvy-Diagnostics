@@ -1,5 +1,5 @@
 # these will be put into script parameters
-$numberOfPings = 1
+$numberOfPings = 50
 $addressesToResolve = ("google.ca")
 $addressesToPing = ("192.168.1.1")
 $nameServerLookupsToTest = ("shaw.ca")
