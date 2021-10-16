@@ -39,6 +39,7 @@ foreach ($addressToResolve in $addressesToResolve) {
 # ping all other addresses provided in the top
 foreach ($addressToPing in $addressesToPing) {
         Write-Host("`nPING test (" + $numberOfPings + " times) to host: " + $addressesToResolve + "`n")
+        ping -n $numberOfPings $addressToPing
 }
 
 # TRACE ALL THE ROUTES!!!
