@@ -1,5 +1,7 @@
-# TekSavvy-Helper-Tool
-I am incredibly lazy and didn't feel like typing in all of the commands and capturing all of the output required for some troubleshooting so I wrote this script...
+# TekSavvy-Diagnostics
+
+## Disclaimer
+I am incredibly lazy and didn't feel like typing in all of the commands and capturing all of the output required for some troubleshooting so I wrote this script. Figured it might be helpful to the TekSavvy team as well. If you enhance, please create a pull request so I can get it back into the main script.
 
 
 ## Usage:
