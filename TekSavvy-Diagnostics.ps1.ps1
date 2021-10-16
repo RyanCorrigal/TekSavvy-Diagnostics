@@ -54,5 +54,7 @@ foreach ($dnsServerToTest in $dnsServersToTest) {
     }
 }
 
-Write-Host("Add done. Please thank the TekSavvy team for working so hard to help you resolve your issues. 👌")
-Write-Host("Please email your results to:support@teksavvy.com")
+Write-Host("Add done. Please thank the TekSavvy team for working so hard to help you resolve your issues.")
+Write-Host("Please email your results to: support@teksavvy.com")
+Write-Host("KTHANKSBYE")
+
